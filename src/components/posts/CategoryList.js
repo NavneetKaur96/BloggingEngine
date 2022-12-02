@@ -26,19 +26,7 @@ dispatch({
                      
            
 
-{/* //     <div className="col-md-12 col-lg-4 article-right order-1 order-lg-2">
-//     <div className="discover-header">
-//         <h6>Discover more of what matters to you</h6>
-//     </div>
-//     <div className="discover-list">
-    
-        
-      
-//     </div>
 
-  
-
-// </div> */}
 </>
   )
 }

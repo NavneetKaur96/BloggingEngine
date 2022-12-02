@@ -1,0 +1,12 @@
+.profileDisplay{
+    width:150px;
+    height:150px;
+   
+}
+tr,th,td{
+    text-align: left;
+}
+tr:last-child{
+    border:none;
+    border-color: white;
+}
